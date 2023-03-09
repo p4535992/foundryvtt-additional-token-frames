@@ -1,13 +1,13 @@
 {
 	"id": "additional-token-frames",
 	"title": "Additional Token Frames",
-	"description": "Token Frames FoundryVTT",
+	"description": "Additional Token Frames FoundryVTT",
 	"version": "1.5.0",
 	"authors": [
-		{
+        {
             "name": "Jay Colson",
             "email": "jay+foundry@karma.net",
-            "url": "https://keyoxide.org/13286216054838B7D7235AE4841ECE89C918B527",
+            "url": "https://github.com/jcolson",
             "discord": "blackntan#0069"
         },
 		{
@@ -60,15 +60,15 @@
 	"packs": [],
 	"systems": [],
 	"scripts": [],
-	"esmodules": ["main.js"],
-	"styles": ["/styles/additional-token-frames.css"],
+	"esmodules": [],
+	"styles": [],
 	"compatibility": {
 		"minimum": 10,
 		"verified": 10,
 		"maximum": 10
 	},
 	"manifestPlusVersion": "1.2.1",
-	"url": "0.1.3",
+	"url": "https://github.com/p4535992/foundryvtt-additional-token-frames",
 	"manifest": "https://github.com/p4535992/foundryvtt-additional-token-frames/releases/latest/download/module.json",
 	"download": "https://github.com/p4535992/foundryvtt-additional-token-frames/releases/latest/download/module.zip",
 	"readme": "https://github.com/p4535992/foundryvtt-additional-token-frames/blob/master/README.md",

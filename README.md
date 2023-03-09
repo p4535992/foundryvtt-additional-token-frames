@@ -1,4 +1,4 @@
-# VTT Token Frames
+# Additional Token Frames  for FoundryVTT
 
 ![Latest Release Download Count](https://img.shields.io/github/downloads/p4535992/foundryvtt-additional-token-frames/latest/module.zip?color=2b82fc&label=DOWNLOADS&style=for-the-badge)
 
@@ -87,7 +87,7 @@ If you have your own token frames that you would like to share with the Foundry 
 
 ## Other modules
 
-[foundryvtt_cards](https://github.com/jcolson/foundryvtt_cards) is a module that adds three new Foundry V9 card decks for import from a compendium
+[Additional Cards](https://github.com/p4535992/foundryvtt-additional-cards) is a module that adds three new Foundry V9 card decks for import from a compendium
 
 ## Issues
 
