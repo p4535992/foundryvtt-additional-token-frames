@@ -16,7 +16,7 @@
 
 ### If you want to buy me a coffee [![alt-text](https://img.shields.io/badge/-Patreon-%23ff424d?style=for-the-badge)](https://www.patreon.com/p4535992)
 
-This is a grade of the module [https://github.com/jcolson/token_frames](https://github.com/jcolson/token_frames)
+This is a updated/upgraded of the module [https://github.com/jcolson/token_frames](https://github.com/jcolson/token_frames)
 
 Most of these token frames were harvested from other opensource projects.
 
