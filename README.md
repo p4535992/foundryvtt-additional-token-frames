@@ -20,6 +20,7 @@ This is a grade of the module [https://github.com/jcolson/token_frames](https://
 
 Most of these token frames were harvested from other opensource projects.
 
+![img](/wiki/github-social-preview.jpg)
 
 ## Installation
 
