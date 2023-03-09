@@ -1,8 +1,8 @@
 {
-  "name": "sidebar-context",
-  "title": "Sidebar Context",
-  "description": "Adds several right click context options to documents",
-  "version": "0.1.3",
+	"name": "additional-token-frames",
+	"title": "Additional Token Frames",
+	"description": "Token Frames FoundryVTT",
+	"version": "1.5.0",
   "main": "main.js",
   "scripts": {
     "publish": "gulp publish --update",
