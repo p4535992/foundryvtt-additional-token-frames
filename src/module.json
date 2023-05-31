@@ -2,7 +2,7 @@
 	"id": "additional-token-frames",
 	"title": "Additional Token Frames",
 	"description": "Additional Token Frames FoundryVTT",
-	"version": "1.5.0",
+	"version": "1.5.1",
 	"authors": [
         {
             "name": "Jay Colson",
@@ -58,8 +58,7 @@
 	"styles": [],
 	"compatibility": {
 		"minimum": 10,
-		"verified": 10,
-		"maximum": 10
+		"verified": 10
 	},
 	"manifestPlusVersion": "1.2.1",
 	"url": "https://github.com/p4535992/foundryvtt-additional-token-frames",
