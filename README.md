@@ -20,6 +20,8 @@ This is a updated/upgraded of the module [https://github.com/jcolson/token_frame
 
 Most of these token frames were harvested from other opensource projects.
 
+A great tool to use in conjunction with this module is [Mr Primate's Tokenizer](https://github.com/MrPrimate/tokenizer).
+
 ![img](/wiki/github-social-preview.jpg)
 
 ## Installation
