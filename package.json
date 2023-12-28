@@ -2,7 +2,7 @@
 	"name": "additional-token-frames",
 	"title": "Additional Token Frames",
 	"description": "Token Frames FoundryVTT",
-	"version": "1.5.1",
+	"version": "1.6.3",
 	"main": "module.js",
 	"license": "SEE LICENSE IN LICENSE",
 	"private": true,

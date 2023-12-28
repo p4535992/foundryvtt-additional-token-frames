@@ -16,13 +16,17 @@
 
 ### If you want to buy me a coffee [![alt-text](https://img.shields.io/badge/-Patreon-%23ff424d?style=for-the-badge)](https://www.patreon.com/p4535992)
 
+### This is just a personal fork of [https://github.com/yorkshirelandscape/token_frames](https://github.com/yorkshirelandscape/token_frames)
+
 This is a updated/upgraded of the module [https://github.com/jcolson/token_frames](https://github.com/jcolson/token_frames)
 
 Most of these token frames were harvested from other opensource projects.
 
 A great tool to use in conjunction with this module is [Mr Primate's Tokenizer](https://github.com/MrPrimate/tokenizer).
 
-![img](/wiki/github-social-preview.jpg)
+![img](/wiki/support/github-social-preview.jpg)
+
+![img](/wiki/support/TokenFrame.png)
 
 ## Installation
 
@@ -80,6 +84,22 @@ More of \[their\] content; check out the following social media links:
 Contact Info: [gus-uktena](https://github.com/gus-uktena)
 
 [Requested that frames be added to foundry package](https://github.com/p4535992/foundryvtt-additional-token-frames/issues/8).
+
+### Sourced from gus-uktena
+
+Contact Info: [gus-uktena](https://github.com/gus-uktena)
+
+[Requested that frames be added to foundry package](https://github.com/jcolson/token_frames/issues/8).
+
+"Hello, I've just made some tokens for Band of Blades, which I would like to share with everyone. It includes a blank token so people can create their own variations. Thanks!"
+
+### Sourced from Geekswordsman
+
+Geekswordsman has graciously agreed to include some of his creations in the module. He can usually be found on the Foundry VTT discord server if you need to get in touch with him.
+
+### Change of ownership and new token frames from volfied
+
+Many thanks to Jay Colson for creating this module. In his absence, I have assumed direction of the project. I have also added some token frames of my own.
 
 ## Feel free to send pull requests for additional token frame content
 
